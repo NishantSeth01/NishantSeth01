@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Python, Data Analysis**
+- 💬 Ask me about **Python, Data Analysis, Data Science, Machine Learning, AI**
 
 - 📫 How to reach me **nishantseth46@gmail.com**
 
